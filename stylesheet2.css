@@ -1,0 +1,30 @@
+ul {
+	list-style:none;
+}
+
+li {
+	color:white;
+	padding:10px;
+}
+
+.item1 {
+	background-color:red;
+}
+
+.item2 {
+	background-color:blue;
+}
+
+.item3 {
+	background-color:black;
+}
+
+.item4 {
+	background-color:green;
+}
+
+
+.flex-list {
+	display:flex;
+	flex-direction;column;
+}
